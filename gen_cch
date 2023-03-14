@@ -1,0 +1,13 @@
+date
+openscad -D CRIMPER='"SN58B"' -D TYPE='"DUPONT"' -o ~/Downloads/SN58B_DUPONT.stl ConnectorCrimpHelper.scad
+date
+openscad -D CRIMPER='"SN58B"' -D TYPE='"JST_XH_2_54"' -o ~/Downloads/SN58B_JST_XH_2_54.stl ConnectorCrimpHelper.scad
+date
+openscad -D CRIMPER='"SN58B"' -D TYPE='"JST_SM_2_5"' -o ~/Downloads/SN58B_JST_SM_2_5.stl ConnectorCrimpHelper.scad
+date
+openscad -D CRIMPER='"SN28B"' -D TYPE='"DUPONT"' -o ~/Downloads/SN28B_DUPONT.stl ConnectorCrimpHelper.scad
+date
+openscad -D CRIMPER='"SN28B"' -D TYPE='"JST_XH_2_54"' -o ~/Downloads/SN28B_JST_XH_2_54.stl ConnectorCrimpHelper.scad
+date
+openscad -D CRIMPER='"SN28B"' -D TYPE='"JST_SM_2_5"' -o ~/Downloads/SN28B_JST_SM_2_5.stl ConnectorCrimpHelper.scad
+date
